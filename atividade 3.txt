@@ -1,0 +1,19 @@
+RESPOSTAS DAS PERGUNTAS SOBRE O TEXTO "TRANSFORMANDO MAINFRAMES EM SERVIDORES DE REDE"
+
+1- Por que uma empresa desejaria converter seu mainframe em um servidor de rede? Que os benefícios para a empresa?
+
+R- Reduzir Custos: O principal benefício mencionado é a redução de custos com software front-end e manutenção. A Mutual Group obteve uma redução de 15% na manutenção e suporte técnico do middleware do S/390, utilizado para gerenciar navegadores de rede.
+
+Aumentar Acessibilidade e Melhorar a Interface: Acessar bancos de dados proprietários do mainframe com a aparência familiar de um PC (navegador de rede), facilitando o uso para funcionários e clientes.
+
+Compatibilidade: Adaptar o sistema central ao modelo mundial de "cliente-servidor" e permitir que os usuários acessem as informações através da rede (Internet ou Intranet).
+
+
+2- O que uma empresa precisa ter para tornar seus bancos de dados, aplicações, baseados em computadores, centrais acessíveis a funcionários e clientes que possuem navegadores de rede?
+
+R- A empresa precisa de um software front-end ou middleware (interface) que atue como uma camada entre o sistema proprietário do mainframe e os navegadores de rede. Esse middleware (como o utilizado pela Mutual Group no S/390 ou a interface de padrão público da OpenConnect usada pela Diversified) permite que o mainframe se comunique com microcomputadores de baixo custo (e seus navegadores) e traduza a aplicação sofisticada do mainframe para um formato acessível na web, no modelo "cliente-servidor".
+
+
+3- Quando uma empresa deve utilizar um mainframe como servidor de rede em lugar de recorrer exclusivamente a uma rede de servidores baseados em PCs?
+
+R- Quando o objetivo é preservar a eficiência e a economia do sistema central que já possui o appeal de Internet e quando a maioria dos dados e aplicações críticas ainda reside no mainframe, e a empresa concluiu que esses sistemas não limitam o compartilhamento de dados.

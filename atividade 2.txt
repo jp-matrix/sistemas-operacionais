@@ -1,0 +1,25 @@
+RESPOSTAS DAS PERGUNTAS SOBRE O TEXTO "O Caso do Linux e o Software de Fonte Aberta (Open Source)"
+
+1- Quais são as vantagens e limitações de se utilizar software freeware ou de fonte aberta, como o Linux?
+
+R- VANTAGENS: - Torvalds menciona que ele se apresentava para uso em aplicações mais críticas.
+
+- Os usuários dizem que ele tem a vantagem de serem altamente confiáveis, compatíveis com diversas plataformas e de rápida execução.
+
+- No caso do Linux em servidores, é "mais seguro e menos custoso" que o NT.
+
+LIMITAÇÕES: - Muitos dos seus usuários esperam que o Linux seja mais rápido em termos de suporte e implementação, já que, "como todo sistema operacional, ele é gratuito".
+
+- O autor sugere que a principal limitação, mencionada pelos usuários, é que a implementação e o suporte não são tão rápidos quanto a comunidade gostaria.
+
+
+2- Por que empresas como a Jay Jacobs e a Burlington estão optando pelo Linux em lugar do Unix ou Windows NT para administrar suas operações?
+
+R- A Jay Jacobs optou pelo Linux para seus servidores web (cerca de 1.700), pois custam menos em termos de preço, instalação e manutenção do que o Windows NT. Em 1999, o Linux era cerca de 2,5% do seu receituário (baseado em sistemas Unix nos 120 PCs e servidores), enquanto o NT ficaria em um custo estimado de 980.000 dólares mais um custo de 968.000 dólares para o licenciamento de software de terceiros.
+
+A Burlington Optou pelo Linux em cerca de 250 servidores porque precisava de um sistema operacional de rede que fosse "rápido e menos custoso". Por ser de "código aberto", permitia a ela aprimorar o programa, e liberar seus aperfeiçoamentos, para que toda a comunidade se beneficiasse.
+
+
+3- O desenvolvimento do Linux demonstra uma mudança maior no desenvolvimento de softwares possibilitada pela Internet? Por quê?
+
+R- Sim, A comunidade Linux permitiu o desenvolvimento de softwares "de forma aberta e muito além do que a academia, Torvalds demonstrou que, mesmo com milhões de programadores, a tecnologia evolui, mesmo que de forma "livre" de qualquer função administrativa". O desenvolvimento do Linux foi possibilitado pela Internet, pois ela "tornou-se o principal 'distribuidor' da nova tecnologia, bem como o principal 'navegador' do Netscape Navigator" para que o código fonte fosse compartilhado e aprimorado por programadores e hackers ao redor do mundo.

@@ -1,0 +1,15 @@
+RESPOSTAS DAS PERGUNTAS SOBRE O TEXTO "O VALOR COMERCIAL DO ARMAZENAMENTO DE DADOS NA ERA DO COMÉRCIO ELETRÔNICO"
+
+1- Por que o comércio eletrônico está sendo enormemente afetado e necessita de armazenamento de dados?
+
+R- Porque as empresas estão buscando soluções para um clique de mouse on-line e desenvolvendo métodos de fazer com que todos os tipos de dados e clientes estejam em rede; O setor enfrenta o desafio de armazenar e gerenciar bilhões de transações e os dados de clientes e a necessidade de uma rede única para cada par de dados (clientes e produtos, por exemplo) e para cada uma das centenas de transações de comércio eletrônico que ocorrem anualmente.
+
+
+2- Por que existe uma demanda intensa por armazenamento de dados em muitas empresas, além das que estão preparadas para o comércio eletrônico?
+
+R- Porque a tecnologia de rede de área de armazenamento (SAN) é ideal para armazenar e gerenciar grandes volumes de dados; As companhias de setores como aviação, seguros, bancos e telecomunicações estão se tornando clientes principais de armazenamento, pois dependem de sistemas de backup e armazenamento para manter seus dados de clientes; 75% da participação de mercado no setor de armazenamento de dados pertence a 20 maiores companhias de telecomunicação, 90% das maiores companhias aéreas e 25 maiores bancos dos Estados Unidos.
+
+
+3- Como as tecnologias de armazenamento de dados da EMC e outras ajudam a aumentar o valor comercial dos recursos de dados de uma empresa?
+
+R- Permitem que as empresas extraiam mais valor de seus ativos de dados, dando-lhes uma vantagem competitiva; O computador e o software que coordenam o rápido movimento de entrada e saída de dados são fundamentais para que as empresas alcancem as metas de gerenciamento, descobrindo o valor escondido nos dados; As tecnologias de armazenamento e o software que as coordena asseguram que os dados mais procurados estejam prontamente acessíveis.

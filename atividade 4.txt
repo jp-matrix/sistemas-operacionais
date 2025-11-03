@@ -1,0 +1,18 @@
+RESPOSTAS DAS PERGUNTAS SOBRE O TEXTO "Alternativas ao Windows NT/2000"
+
+1- Por que a Egghead e a Earthlink estão optando por executar seus aplicativos empresariais no Unix ou em outros sistemas operacionais, em lugar do Windows NT, e não estão esperando o Windows 2000?
+
+R- Egghead: A Egghead havia resolvido que o sistema operacional Windows NT da Microsoft simplesmente não estava à altura de operar uma loja na rede, e ela não podia se permitir esperar para ver a nova versão industrial (Windows 2000), chegando a tempo.
+
+EarthLink: A EarthLink, um provedor de serviços de internet com 1 milhão de assinantes, recentemente rejeitou o Windows NT e optou pelo Solaris Unix da Sun devido, principalmente, à preocupação com o número de pessoal necessário para manter os servidores da Microsoft, já que eles tendem a dar crash com mais frequência. Outras empresas estão migrando para sistemas operacionais baseados em Unix pelos mesmos motivos, já que o Windows NT 4.0 simplesmente não é o melhor sistema operacional para seus volumes de trabalho e não estão dispostos a esperar pelo Windows 2000 devido ao seu histórico de instabilidade e à quantidade de dados perdidos em alguns crashes de servidor.
+
+
+2- Por que a Aspect Telecommunications é capaz de comprar software com base em banco de dados que fará parte do negócio, e não com base em outro sistema operacional executado?
+
+R- A Aspect Telecommunications é capaz de comprar um software de banco de dados baseado no negócio porque "as empresas estão operando por não se prenderem a apenas um software de um fabricante (mesmo na Microsoft e na Compaq)". Isso reflete uma política agressiva de adoção do Windows NT, que exige que o software seja projetado para ser portável ou modular o suficiente para que possa ser transferido para um sistema operacional diferente.
+
+
+3- Quais estratégias de negócios a Microsoft poderia adotar para recapturar o sucesso anterior do Windows NT? O que os concorrentes da Microsoft devem fazer para capitalizarem esta oportunidade atual de negócios?
+
+R- Estratégias para a Microsoft: A Microsoft precisa de um sistema operacional que finalmente cumpra o que promete e seja tão estável e escalável quanto o Unix, para reconquistar a confiança dos clientes corporativos. A Microsoft está desesperada para convencer o mercado de que o Windows NT e o sistema operacional Windows 2000 serão totalmente confiáveis, oferecendo uma plataforma para bancos de dados, mensagens e redes e se adequando a aplicações críticas que exigem um uptime (tempo de atividade) estável e maior. Os concorrentes da Microsoft, como a Sun (com o Solaris Unix) e outros fabricantes de sistemas baseados em Unix, devem capitalizar a percepção negativa e o histórico de instabilidade e falta de escalabilidade do Windows NT e a desconfiança em relação ao atraso do Windows 2000 para promover a estabilidade, a comprovada escalabilidade e o uptime superior de seus sistemas Unix/Linux.
+
